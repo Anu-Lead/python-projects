@@ -1,0 +1,4 @@
+users_mgt/.env
+venv/
+.idea/
+**/*.env
